@@ -1,9 +1,9 @@
   <h1>👋 Hi, I'm Antonio Caporrini</h1>
-  <p><strong>Full Stack Developer | SEO Specialist</strong></p>
+  <p><strong>Software Engineer | SEO Specialist</strong></p>
   <p>🌍 <em>Location:</em> Rome, Latium, Italy</p>
 
   <h2>About Me</h2>
-  <p>I'm a passionate Full Stack Developer and SEO Specialist dedicated to building high-performance, scalable, and SEO-friendly web solutions. With a strong foundation in both front-end and back-end development, I strive to create seamless user experiences and optimize websites for search engines.</p>
+  <p>I'm a Software Engineer and SEO Specialist dedicated to building high-performance, scalable, and SEO-friendly web solutions. With a strong foundation in both front-end and back-end development, I strive to create seamless user experiences and optimize websites for search engines.</p>
   <ul>
     <li><strong>Interests:</strong> Web Development, SEO </li>
     <li><strong>Currently Learning:</strong> Modern Web Development Frameworks,  Advanced SEO Techniques </li>
