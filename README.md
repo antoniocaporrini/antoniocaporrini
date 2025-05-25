@@ -12,12 +12,6 @@ More recently, I’ve been getting closer to software engineering, exploring lan
 
 I try to keep a practical but thoughtful approach, aiming to understand how the tools I use actually work.
 I don’t like to define myself with a single label—I prefer to build my skills step by step, led more by curiosity than by trends.</p>
-  <ul>
-    <li><strong>Interests:</strong> Web Development, SEO </li>
-    <li><strong>Currently Learning:</strong> Modern Web Development Frameworks,  Advanced SEO Techniques </li>
-    <li><strong>Open to Collaboration:</strong> Yes, especially on JavaScript-related projects</li>
-    <li><strong>Contact:</strong> <a href="mailto:caporrini@gmail.com">caporrini@gmail.com</a></li>
-  </ul>
 
   <h2>Skills</h2>
   <div class="skills">
