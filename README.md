@@ -1,6 +1,6 @@
   <h1>👋 Hi, I'm Antonio Caporrini</h1>
   <p><strong>Full Stack Developer | SEO Specialist</strong></p>
-  <p>🌍 <em>Location:</em> Rome, Italy</p>
+  <p>🌍 Location: Rome, Italy</p>
 
   <h2>About Me</h2>
   <p>I started working in web development through WordPress, HTML, and CSS. Over time, I deepened my knowledge of JavaScript and PHP, and gradually moved on to tools like React, Node.js, Docker, SQL, and NoSQL.
