@@ -1,4 +1,4 @@
-  <h1>👋 Hi, I'm Antonio Caporrini</h1>
+  <h1>Antonio Caporrini</h1>
   <p><strong>Full Stack Developer | SEO Specialist</strong></p>
   <p>🌍 Location: Rome, Italy</p>
 
