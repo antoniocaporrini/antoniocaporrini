@@ -67,19 +67,9 @@ I don’t like to define myself with a single label—I prefer to build my skill
   <h2>GitHub Stats</h2>
   <p><img src="https://github-readme-stats.vercel.app/api?username=antoniocaporrini&show_icons=true&theme=radical" alt="Antonio's GitHub Stats"></p>
 
-  <h2>🧠 Soft Skills</h2>
-    <ul>
-  <li><strong>Critical Thinking:</strong> Ability to analyze and evaluate situations objectively to make informed decisions.</li>
-  <li><strong>Effective Communication:</strong> Proficient in conveying information clearly and listening actively to understand others.</li>
-  <li><strong>Teamwork:</strong> Skilled in collaborating with diverse teams to achieve common goals.</li>
-  <li><strong>Proactive Attitude:</strong> Taking initiative and anticipating challenges to implement solutions promptly.</li>
-  <li><strong>Work Ethic:</strong> Demonstrating dedication, responsibility, and a strong commitment to quality.</li>
-  <li><strong>Time Management:</strong> Effectively organizing tasks to meet deadlines and manage workloads efficiently.</li>
-  <li><strong>Attention to Detail:</strong> Ensuring accuracy and thoroughness in all aspects of work.</li>
-  <li><strong>Problem-Solving:</strong> Identifying issues and developing effective solutions.</li>
-  <li><strong>Adaptability:</strong> Adjusting to new situations and challenges with flexibility.</li>
-  <li><strong>Continuous Learning:</strong> Committed to ongoing personal and professional development.</li>
-    </ul>
+## 🧠 Soft Skills
+
+Beyond the code, I value clear communication and enjoy collaborating with people from different backgrounds. I like to break down complex problems, look at things critically, and work proactively—anticipating obstacles before they happen. I care about delivering quality work, pay attention to details, and always try to learn something new, whether from a teammate or a fresh challenge. For me, adaptability and a strong work ethic are just part of the job.
 
 <!---
 antoniocaporrini/antoniocaporrini is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
