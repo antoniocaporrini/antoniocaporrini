@@ -17,6 +17,7 @@ I don’t like to define myself with a single label—I prefer to build my skill
   <div class="skills">
     <h3>Programming Languages:</h3>
     <p>
+      <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
       <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
     </p>
